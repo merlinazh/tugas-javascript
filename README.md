@@ -1,4 +1,5 @@
 1. Perbedaan procedural, conditional, dan looping
+
 Procedural merupakan gaya pemrograman dimana kode dipanggil secara berurutan untuk menjalankan suatu program. Dalam hal ini, kode diorganisir dalam urutan langkah-langkah yang dijalankan secara beurutan seperti cara menjalankan serangkaian intruksi satu per satu.
 
 Conditional adalah statement percabangan yang menggambarkan suatu kondisi atau kriteria tertentu yang dievaluasi sebagai benar (true) atau salah (false). Conditional yang digunakan di javascript adalah if, if else, switch.
