@@ -7,6 +7,7 @@ Conditional adalah statement percabangan yang menggambarkan suatu kondisi atau k
 Looping adalah proses eksekusi kode secara berulang hingga suatu kondisi tertentu terpenuhi atau kondisi stop/berhenti tercapai. 
 
 2. Kapan harus menggunakan looping
+
 Looping digunakan saat ingin melakukan perintah yang perlu dijalankan berulang kali sampai suatu kondisi terpenuhi. 
 
 3. Sebutkan 3 looping yang dapat digunakan dan fungsi masing-masing looping
